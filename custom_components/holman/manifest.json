@@ -1,0 +1,8 @@
+{
+  "domain": "holman",
+  "name": "Holman",
+  "documentation": "https://github.com/karmacop/holman/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["holman==0.1.0"]
+}
